@@ -1,12 +1,20 @@
 # Htop_ncurse_sfml_cpp
 * How to compile:
-    * make re
+```sh
+$ make re
+```
 * Launch with SFML:
-    * ./MyGKrellm -s
+```sh
+$ ./MyGKrellm -s
+```
 * Launch with NCURSE:
-    * ./MyGKrellm -n
+```sh
+$ ./MyGKrellm -n
+```
 * Get help:
-    * ./MyGKrellm -h
+```sh
+$ ./MyGKrellm -h
+```
 * My SFML version:
     * 2.4.2
 * My NCURSE version:
